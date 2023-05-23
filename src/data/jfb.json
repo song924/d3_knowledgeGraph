@@ -1,0 +1,266 @@
+[
+    {
+        "name": "免职(2009年8月13日)",
+        "id": 17211,
+        "source": 4445,
+        "label": "p2f",
+        "type": "免职(2009年8月13日)",
+        "properties": {
+            "date": "2009年8月13日",
+            "relation_type": "Dismissed"
+        },
+        "target": 8744
+    },
+    {
+        "name": "任职(2)",
+        "id": 44631,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2)",
+        "properties": {
+            "date": "2",
+            "relation_type": "Appointed"
+        },
+        "target": 18625
+    },
+    {
+        "name": "免职(2014年2月14日)",
+        "id": 5164,
+        "source": 4445,
+        "label": "p2f",
+        "type": "免职(2014年2月14日)",
+        "properties": {
+            "date": "2014年2月14日",
+            "relation_type": "Dismissed"
+        },
+        "target": 7136
+    },
+    {
+        "name": "任职(2011年4月13日)",
+        "id": 11307,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2011年4月13日)",
+        "properties": {
+            "date": "2011年4月13日",
+            "relation_type": "Appointed"
+        },
+        "target": 4448
+    },
+    {
+        "name": "任职(2012年2月6日)",
+        "id": 654,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2012年2月6日)",
+        "properties": {
+            "date": "2012年2月6日",
+            "relation_type": "Appointed"
+        },
+        "target": 4446
+    },
+    {
+        "name": "任职(2009年8月27日)",
+        "id": 1625,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年8月27日)",
+        "properties": {
+            "date": "2009年8月27日",
+            "relation_type": "Appointed"
+        },
+        "target": 5093
+    },
+    {
+        "name": "任职(2009年8月13日)",
+        "id": 17209,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年8月13日)",
+        "properties": {
+            "date": "2009年8月13日",
+            "relation_type": "Appointed"
+        },
+        "target": 8743
+    },
+    {
+        "name": "免职(2009年9月15日)",
+        "id": 4264,
+        "source": 4445,
+        "label": "p2f",
+        "type": "免职(2009年9月15日)",
+        "properties": {
+            "date": "2009年9月15日",
+            "relation_type": "Dismissed"
+        },
+        "target": 6596
+    },
+    {
+        "name": "任职(2009年12月30日)",
+        "id": 47451,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年12月30日)",
+        "properties": {
+            "date": "2009年12月30日",
+            "relation_type": "Appointed"
+        },
+        "target": 5093
+    },
+    {
+        "name": "任职(2009年3月26日)",
+        "id": 8720,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年3月26日)",
+        "properties": {
+            "date": "2009年3月26日",
+            "relation_type": "Appointed"
+        },
+        "target": 1812
+    },
+    {
+        "name": "任职(2010年2月3日)",
+        "id": 35414,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2010年2月3日)",
+        "properties": {
+            "date": "2010年2月3日",
+            "relation_type": "Appointed"
+        },
+        "target": 10094
+    },
+    {
+        "name": "任职(2)",
+        "id": 39043,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2)",
+        "properties": {
+            "date": "2",
+            "relation_type": "Appointed"
+        },
+        "target": 16744
+    },
+    {
+        "name": "任职(2009年8月13日)",
+        "id": 60603,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年8月13日)",
+        "properties": {
+            "date": "2009年8月13日",
+            "relation_type": "Appointed"
+        },
+        "target": 9175
+    },
+    {
+        "name": "任职(2)",
+        "id": 39040,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2)",
+        "properties": {
+            "date": "2",
+            "relation_type": "Appointed"
+        },
+        "target": 5198
+    },
+    {
+        "name": "免职(2014年2月7日)",
+        "id": 1945,
+        "source": 4445,
+        "label": "p2f",
+        "type": "免职(2014年2月7日)",
+        "properties": {
+            "date": "2014年2月7日",
+            "relation_type": "Dismissed"
+        },
+        "target": 5314
+    },
+    {
+        "name": "任职(2009年9月15日)",
+        "id": 4262,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2009年9月15日)",
+        "properties": {
+            "date": "2009年9月15日",
+            "relation_type": "Appointed"
+        },
+        "target": 5198
+    },
+    {
+        "name": "任职(2)",
+        "id": 44627,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2)",
+        "properties": {
+            "date": "2",
+            "relation_type": "Appointed"
+        },
+        "target": 12776
+    },
+    {
+        "name": "任职(123.2-209.6)",
+        "id": 4527,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(123.2-209.6)",
+        "properties": {
+            "date": "123.2-209.6",
+            "relation_type": "Appointed"
+        },
+        "target": 4446
+    },
+    {
+        "name": "任职(2008.5-5-)",
+        "id": 10874,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2008.5-5-)",
+        "properties": {
+            "date": "2008.5-5-",
+            "relation_type": "Appointed"
+        },
+        "target": 4018
+    },
+    {
+        "name": "任职(2012年10月15日)",
+        "id": 96895,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2012年10月15日)",
+        "properties": {
+            "date": "2012年10月15日",
+            "relation_type": "Appointed"
+        },
+        "target": 35034
+    },
+    {
+        "name": "任职(2)",
+        "id": 84947,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2)",
+        "properties": {
+            "date": "2",
+            "relation_type": "Appointed"
+        },
+        "target": 7286
+    },
+    {
+        "name": "任职(2012.6.8)",
+        "id": 11364,
+        "source": 4445,
+        "label": "p2f",
+        "type": "任职(2012.6.8)",
+        "properties": {
+            "date": "2012.6.8",
+            "relation_type": "Appointed"
+        },
+        "target": 3006
+    }
+]

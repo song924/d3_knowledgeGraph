@@ -1,0 +1,1091 @@
+{
+    "nodes": [
+        {
+            "name": "镇党委书记",
+            "id": 4742,
+            "properties": {
+                "fulltitle": "镇党委书记"
+            }
+        },
+        {
+            "name": "市审计局局长",
+            "id": 4446,
+            "properties": {
+                "fulltitle": "市审计局局长"
+            }
+        },
+        {
+            "name": "绵竹市审计学会理事长",
+            "id": 19927,
+            "properties": {
+                "fulltitle": "绵竹市审计学会理事长"
+            }
+        },
+        {
+            "name": "市住房和城乡建设局局长",
+            "id": 4429,
+            "properties": {
+                "fulltitle": "市住房和城乡建设局局长"
+            }
+        },
+        {
+            "name": "绵竹市物价局党组书记",
+            "id": 15507,
+            "properties": {
+                "fulltitle": "绵竹市物价局党组书记"
+            }
+        },
+        {
+            "name": "竹市委组织部副部长",
+            "id": 36131,
+            "properties": {
+                "fulltitle": "竹市委组织部副部长"
+            }
+        },
+        {
+            "name": "九龙镇镇长",
+            "id": 7659,
+            "properties": {
+                "fulltitle": "九龙镇镇长"
+            }
+        },
+        {
+            "name": "办公室副主任",
+            "id": 4099,
+            "properties": {
+                "fulltitle": "办公室副主任"
+            }
+        },
+        {
+            "name": "四川绵茂公路建设投资有限公司监事",
+            "id": 7136,
+            "properties": {
+                "fulltitle": "四川绵茂公路建设投资有限公司监事"
+            }
+        },
+        {
+            "name": "组织副部长",
+            "id": 27432,
+            "properties": {
+                "fulltitle": "组织副部长"
+            }
+        },
+        {
+            "name": "绵竹市统计局党组成员",
+            "id": 10094,
+            "properties": {
+                "fulltitle": "绵竹市统计局党组成员"
+            }
+        },
+        {
+            "name": "中共绵竹市委组织部副部长",
+            "id": 3141,
+            "properties": {
+                "fulltitle": "中共绵竹市委组织部副部长"
+            }
+        },
+        {
+            "name": "市委组织部副部长",
+            "id": 1812,
+            "properties": {
+                "fulltitle": "市委组织部副部长"
+            }
+        },
+        {
+            "name": "戴明茜",
+            "id": 4445,
+            "properties": {
+                "name": "戴明茜"
+            }
+        },
+        {
+            "name": "绵竹市纪委副书记",
+            "id": 5198,
+            "properties": {
+                "fulltitle": "绵竹市纪委副书记"
+            }
+        },
+        {
+            "name": "绵竹市审计局党组书记",
+            "id": 5314,
+            "properties": {
+                "fulltitle": "绵竹市审计局党组书记"
+            }
+        },
+        {
+            "name": "中共绵竹市直属机关工作委员会书记",
+            "id": 31860,
+            "properties": {
+                "fulltitle": "中共绵竹市直属机关工作委员会书记"
+            }
+        },
+        {
+            "name": "市人大常委会主任",
+            "id": 7286,
+            "properties": {
+                "fulltitle": "市人大常委会主任"
+            }
+        },
+        {
+            "name": "市委常委",
+            "id": 3964,
+            "properties": {
+                "fulltitle": "市委常委"
+            }
+        },
+        {
+            "name": "绵竹市委组织部副部长",
+            "id": 6596,
+            "properties": {
+                "fulltitle": "绵竹市委组织部副部长"
+            }
+        },
+        {
+            "name": "市工商局局长",
+            "id": 774,
+            "properties": {
+                "fulltitle": "市工商局局长"
+            }
+        },
+        {
+            "name": "绵竹市副市长",
+            "id": 18625,
+            "properties": {
+                "fulltitle": "绵竹市副市长"
+            }
+        },
+        {
+            "name": "绵竹市统计局局长",
+            "id": 8629,
+            "properties": {
+                "fulltitle": "绵竹市统计局局长"
+            }
+        },
+        {
+            "name": "市统计局局长",
+            "id": 4448,
+            "properties": {
+                "fulltitle": "市统计局局长"
+            }
+        },
+        {
+            "name": "绵竹市直机关工委书记",
+            "id": 8744,
+            "properties": {
+                "fulltitle": "绵竹市直机关工委书记"
+            }
+        },
+        {
+            "name": "市委组织员",
+            "id": 8255,
+            "properties": {
+                "fulltitle": "市委组织员"
+            }
+        },
+        {
+            "name": "绵竹市物价局党组成员",
+            "id": 8743,
+            "properties": {
+                "fulltitle": "绵竹市物价局党组成员"
+            }
+        },
+        {
+            "name": "九龙镇党委书记",
+            "id": 5213,
+            "properties": {
+                "fulltitle": "九龙镇党委书记"
+            }
+        },
+        {
+            "name": "绵竹市审计局局长",
+            "id": 12776,
+            "properties": {
+                "fulltitle": "绵竹市审计局局长"
+            }
+        },
+        {
+            "name": "文秘",
+            "id": 16744,
+            "properties": {
+                "fulltitle": "文秘"
+            }
+        },
+        {
+            "name": "绵竹市统计学会会长",
+            "id": 35034,
+            "properties": {
+                "fulltitle": "绵竹市统计学会会长"
+            }
+        },
+        {
+            "name": "办公室主任",
+            "id": 4018,
+            "properties": {
+                "fulltitle": "办公室主任"
+            }
+        },
+        {
+            "name": "绵竹市物价局局长",
+            "id": 9175,
+            "properties": {
+                "fulltitle": "绵竹市物价局局长"
+            }
+        },
+        {
+            "name": "绵竹市审计局党组成员",
+            "id": 5296,
+            "properties": {
+                "fulltitle": "绵竹市审计局党组成员"
+            }
+        },
+        {
+            "name": "九龙镇人大主席",
+            "id": 11925,
+            "properties": {
+                "fulltitle": "九龙镇人大主席"
+            }
+        },
+        {
+            "name": "市物价局局长",
+            "id": 5093,
+            "properties": {
+                "fulltitle": "市物价局局长"
+            }
+        },
+        {
+            "name": "市审计学会理事长",
+            "id": 3006,
+            "properties": {
+                "fulltitle": "市审计学会理事长"
+            }
+        }
+    ],
+    "links": [
+        {
+            "name": "免职(2014年2月7日)",
+            "id": 1945,
+            "source": 4445,
+            "type": "免职(2014年2月7日)",
+            "properties": {
+                "date": "2014年2月7日",
+                "relation_type": "Dismissed"
+            },
+            "target": 5314
+        },
+        {
+            "name": "任职(2012年2月6日)",
+            "id": 654,
+            "source": 4445,
+            "type": "任职(2012年2月6日)",
+            "properties": {
+                "date": "2012年2月6日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2009年8月27日)",
+            "id": 1625,
+            "source": 4445,
+            "type": "任职(2009年8月27日)",
+            "properties": {
+                "date": "2009年8月27日",
+                "relation_type": "Appointed"
+            },
+            "target": 5093
+        },
+        {
+            "name": "任职(2)",
+            "id": 39040,
+            "source": 4445,
+            "type": "任职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Appointed"
+            },
+            "target": 5198
+        },
+        {
+            "name": "任职(2)",
+            "id": 84947,
+            "source": 4445,
+            "type": "任职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Appointed"
+            },
+            "target": 7286
+        },
+        {
+            "name": "任职(2)",
+            "id": 39043,
+            "source": 4445,
+            "type": "任职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Appointed"
+            },
+            "target": 16744
+        },
+        {
+            "name": "任职(2)",
+            "id": 44627,
+            "source": 4445,
+            "type": "任职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Appointed"
+            },
+            "target": 12776
+        },
+        {
+            "name": "任职(2)",
+            "id": 44631,
+            "source": 4445,
+            "type": "任职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Appointed"
+            },
+            "target": 18625
+        },
+        {
+            "name": "任职(20:1.4.21)",
+            "id": 4244,
+            "source": 4445,
+            "type": "任职(20:1.4.21)",
+            "properties": {
+                "date": "20:1.4.21",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(2009年9月15日)",
+            "id": 4262,
+            "source": 4445,
+            "type": "任职(2009年9月15日)",
+            "properties": {
+                "date": "2009年9月15日",
+                "relation_type": "Appointed"
+            },
+            "target": 5198
+        },
+        {
+            "name": "免职(2009年9月15日)",
+            "id": 4264,
+            "source": 4445,
+            "type": "免职(2009年9月15日)",
+            "properties": {
+                "date": "2009年9月15日",
+                "relation_type": "Dismissed"
+            },
+            "target": 6596
+        },
+        {
+            "name": "任职(2011年4月13日)",
+            "id": 11307,
+            "source": 4445,
+            "type": "任职(2011年4月13日)",
+            "properties": {
+                "date": "2011年4月13日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(123.2-209.6)",
+            "id": 4527,
+            "source": 4445,
+            "type": "任职(123.2-209.6)",
+            "properties": {
+                "date": "123.2-209.6",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2011年6月27日)",
+            "id": 17580,
+            "source": 4445,
+            "type": "任职(2011年6月27日)",
+            "properties": {
+                "date": "2011年6月27日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "免职(2014年2月14日)",
+            "id": 5164,
+            "source": 4445,
+            "type": "免职(2014年2月14日)",
+            "properties": {
+                "date": "2014年2月14日",
+                "relation_type": "Dismissed"
+            },
+            "target": 7136
+        },
+        {
+            "name": "任职(2009年8月13日)",
+            "id": 17209,
+            "source": 4445,
+            "type": "任职(2009年8月13日)",
+            "properties": {
+                "date": "2009年8月13日",
+                "relation_type": "Appointed"
+            },
+            "target": 8743
+        },
+        {
+            "name": "任职(2009年8月13日)",
+            "id": 60603,
+            "source": 4445,
+            "type": "任职(2009年8月13日)",
+            "properties": {
+                "date": "2009年8月13日",
+                "relation_type": "Appointed"
+            },
+            "target": 9175
+        },
+        {
+            "name": "免职(2009年8月13日)",
+            "id": 17211,
+            "source": 4445,
+            "type": "免职(2009年8月13日)",
+            "properties": {
+                "date": "2009年8月13日",
+                "relation_type": "Dismissed"
+            },
+            "target": 8744
+        },
+        {
+            "name": "任职(2010年2月3日)",
+            "id": 35414,
+            "source": 4445,
+            "type": "任职(2010年2月3日)",
+            "properties": {
+                "date": "2010年2月3日",
+                "relation_type": "Appointed"
+            },
+            "target": 10094
+        },
+        {
+            "name": "任职(2009年3月26日)",
+            "id": 8720,
+            "source": 4445,
+            "type": "任职(2009年3月26日)",
+            "properties": {
+                "date": "2009年3月26日",
+                "relation_type": "Appointed"
+            },
+            "target": 1812
+        },
+        {
+            "name": "任职(2010年9月14日)",
+            "id": 10288,
+            "source": 4445,
+            "type": "任职(2010年9月14日)",
+            "properties": {
+                "date": "2010年9月14日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(2009年12月30日)",
+            "id": 47451,
+            "source": 4445,
+            "type": "任职(2009年12月30日)",
+            "properties": {
+                "date": "2009年12月30日",
+                "relation_type": "Appointed"
+            },
+            "target": 5093
+        },
+        {
+            "name": "任职(2008.5-5-)",
+            "id": 10874,
+            "source": 4445,
+            "type": "任职(2008.5-5-)",
+            "properties": {
+                "date": "2008.5-5-",
+                "relation_type": "Appointed"
+            },
+            "target": 4018
+        },
+        {
+            "name": "任职(2012.6.8)",
+            "id": 11364,
+            "source": 4445,
+            "type": "任职(2012.6.8)",
+            "properties": {
+                "date": "2012.6.8",
+                "relation_type": "Appointed"
+            },
+            "target": 3006
+        },
+        {
+            "name": "任职(2012年10月15日)",
+            "id": 96895,
+            "source": 4445,
+            "type": "任职(2012年10月15日)",
+            "properties": {
+                "date": "2012年10月15日",
+                "relation_type": "Appointed"
+            },
+            "target": 35034
+        },
+        {
+            "name": "任职(2009年9月16日)",
+            "id": 19828,
+            "source": 4445,
+            "type": "任职(2009年9月16日)",
+            "properties": {
+                "date": "2009年9月16日",
+                "relation_type": "Appointed"
+            },
+            "target": 5093
+        },
+        {
+            "name": "任职(2011年4月12日)",
+            "id": 17361,
+            "source": 4445,
+            "type": "任职(2011年4月12日)",
+            "properties": {
+                "date": "2011年4月12日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "免职(2011年2月10日)",
+            "id": 18244,
+            "source": 4445,
+            "type": "免职(2011年2月10日)",
+            "properties": {
+                "date": "2011年2月10日",
+                "relation_type": "Dismissed"
+            },
+            "target": 9175
+        },
+        {
+            "name": "任职(2010年1月29日)",
+            "id": 20771,
+            "source": 4445,
+            "type": "任职(2010年1月29日)",
+            "properties": {
+                "date": "2010年1月29日",
+                "relation_type": "Appointed"
+            },
+            "target": 10094
+        },
+        {
+            "name": "免职(2)",
+            "id": 39041,
+            "source": 4445,
+            "type": "免职(2)",
+            "properties": {
+                "date": "2",
+                "relation_type": "Dismissed"
+            },
+            "target": 6596
+        },
+        {
+            "name": "任职(2010年11月30日)",
+            "id": 71566,
+            "source": 4445,
+            "type": "任职(2010年11月30日)",
+            "properties": {
+                "date": "2010年11月30日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(100七年二月十二日)",
+            "id": 27810,
+            "source": 4445,
+            "type": "任职(100七年二月十二日)",
+            "properties": {
+                "date": "100七年二月十二日",
+                "relation_type": "Appointed"
+            },
+            "target": 4742
+        },
+        {
+            "name": "免职(2014年2月8日)",
+            "id": 27979,
+            "source": 4445,
+            "type": "免职(2014年2月8日)",
+            "properties": {
+                "date": "2014年2月8日",
+                "relation_type": "Dismissed"
+            },
+            "target": 12776
+        },
+        {
+            "name": "任职(2010年3月24日)",
+            "id": 29204,
+            "source": 4445,
+            "type": "任职(2010年3月24日)",
+            "properties": {
+                "date": "2010年3月24日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(2011年12月26日)",
+            "id": 32636,
+            "source": 4445,
+            "type": "任职(2011年12月26日)",
+            "properties": {
+                "date": "2011年12月26日",
+                "relation_type": "Appointed"
+            },
+            "target": 5296
+        },
+        {
+            "name": "任职(2009年3月18日)",
+            "id": 81042,
+            "source": 4445,
+            "type": "任职(2009年3月18日)",
+            "properties": {
+                "date": "2009年3月18日",
+                "relation_type": "Appointed"
+            },
+            "target": 1812
+        },
+        {
+            "name": "任职(20120715/114032209219815088)",
+            "id": 33939,
+            "source": 4445,
+            "type": "任职(20120715/114032209219815088)",
+            "properties": {
+                "date": "20120715/114032209219815088",
+                "relation_type": "Appointed"
+            },
+            "target": 5198
+        },
+        {
+            "name": "免职(20120715/114032209219815088)",
+            "id": 33940,
+            "source": 4445,
+            "type": "免职(20120715/114032209219815088)",
+            "properties": {
+                "date": "20120715/114032209219815088",
+                "relation_type": "Dismissed"
+            },
+            "target": 6596
+        },
+        {
+            "name": "任职(2011年3月23日)",
+            "id": 34969,
+            "source": 4445,
+            "type": "任职(2011年3月23日)",
+            "properties": {
+                "date": "2011年3月23日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "任职(2011年3月23日)",
+            "id": 34978,
+            "source": 4445,
+            "type": "任职(2011年3月23日)",
+            "properties": {
+                "date": "2011年3月23日",
+                "relation_type": "Appointed"
+            },
+            "target": 774
+        },
+        {
+            "name": "免职(2010年2月3日)",
+            "id": 35431,
+            "source": 4445,
+            "type": "免职(2010年2月3日)",
+            "properties": {
+                "date": "2010年2月3日",
+                "relation_type": "Dismissed"
+            },
+            "target": 15507
+        },
+        {
+            "name": "任职(2014年6月3日)",
+            "id": 48676,
+            "source": 4445,
+            "type": "任职(2014年6月3日)",
+            "properties": {
+                "date": "2014年6月3日",
+                "relation_type": "Appointed"
+            },
+            "target": 19927
+        },
+        {
+            "name": "免职(2014年6月3日)",
+            "id": 48677,
+            "source": 4445,
+            "type": "免职(2014年6月3日)",
+            "properties": {
+                "date": "2014年6月3日",
+                "relation_type": "Dismissed"
+            },
+            "target": 19927
+        },
+        {
+            "name": "免职(二〇一四年二月十四日)",
+            "id": 46428,
+            "source": 4445,
+            "type": "免职(二〇一四年二月十四日)",
+            "properties": {
+                "date": "二〇一四年二月十四日",
+                "relation_type": "Dismissed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "免职(2007年5月14日)",
+            "id": 48480,
+            "source": 4445,
+            "type": "免职(2007年5月14日)",
+            "properties": {
+                "date": "2007年5月14日",
+                "relation_type": "Dismissed"
+            },
+            "target": 11925
+        },
+        {
+            "name": "任职(2012年3月15日)",
+            "id": 90945,
+            "source": 4445,
+            "type": "任职(2012年3月15日)",
+            "properties": {
+                "date": "2012年3月15日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2012年5月18日)",
+            "id": 51708,
+            "source": 4445,
+            "type": "任职(2012年5月18日)",
+            "properties": {
+                "date": "2012年5月18日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(二〇一一年十二月三十一日)",
+            "id": 52320,
+            "source": 4445,
+            "type": "任职(二〇一一年十二月三十一日)",
+            "properties": {
+                "date": "二〇一一年十二月三十一日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(二〇一〇年七月二十三日)",
+            "id": 52805,
+            "source": 4445,
+            "type": "任职(二〇一〇年七月二十三日)",
+            "properties": {
+                "date": "二〇一〇年七月二十三日",
+                "relation_type": "Appointed"
+            },
+            "target": 4448
+        },
+        {
+            "name": "免职(2012年10月15日)",
+            "id": 96896,
+            "source": 4445,
+            "type": "免职(2012年10月15日)",
+            "properties": {
+                "date": "2012年10月15日",
+                "relation_type": "Dismissed"
+            },
+            "target": 35034
+        },
+        {
+            "name": "任职(2007年6月29日)",
+            "id": 100552,
+            "source": 4445,
+            "type": "任职(2007年6月29日)",
+            "properties": {
+                "date": "2007年6月29日",
+                "relation_type": "Appointed"
+            },
+            "target": 36131
+        },
+        {
+            "name": "任职(2005年6月17日)",
+            "id": 58869,
+            "source": 4445,
+            "type": "任职(2005年6月17日)",
+            "properties": {
+                "date": "2005年6月17日",
+                "relation_type": "Appointed"
+            },
+            "target": 11925
+        },
+        {
+            "name": "任职(2005年6月17日)",
+            "id": 107436,
+            "source": 4445,
+            "type": "任职(2005年6月17日)",
+            "properties": {
+                "date": "2005年6月17日",
+                "relation_type": "Appointed"
+            },
+            "target": 5213
+        },
+        {
+            "name": "免职(2005年6月17日)",
+            "id": 58888,
+            "source": 4445,
+            "type": "免职(2005年6月17日)",
+            "properties": {
+                "date": "2005年6月17日",
+                "relation_type": "Dismissed"
+            },
+            "target": 7659
+        },
+        {
+            "name": "任职(2014年1月14日)",
+            "id": 59313,
+            "source": 4445,
+            "type": "任职(2014年1月14日)",
+            "properties": {
+                "date": "2014年1月14日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(二00七年四月十七日)",
+            "id": 63598,
+            "source": 4445,
+            "type": "任职(二00七年四月十七日)",
+            "properties": {
+                "date": "二00七年四月十七日",
+                "relation_type": "Appointed"
+            },
+            "target": 4742
+        },
+        {
+            "name": "任职(2012年6月7日)",
+            "id": 64073,
+            "source": 4445,
+            "type": "任职(2012年6月7日)",
+            "properties": {
+                "date": "2012年6月7日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2012年11月2日)",
+            "id": 66121,
+            "source": 4445,
+            "type": "任职(2012年11月2日)",
+            "properties": {
+                "date": "2012年11月2日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2012年11月2日)",
+            "id": 66128,
+            "source": 4445,
+            "type": "任职(2012年11月2日)",
+            "properties": {
+                "date": "2012年11月2日",
+                "relation_type": "Appointed"
+            },
+            "target": 4429
+        },
+        {
+            "name": "任职(2012-3-1)",
+            "id": 67415,
+            "source": 4445,
+            "type": "任职(2012-3-1)",
+            "properties": {
+                "date": "2012-3-1",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2012.11.2)",
+            "id": 67758,
+            "source": 4445,
+            "type": "任职(2012.11.2)",
+            "properties": {
+                "date": "2012.11.2",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "免职(二0一四年二月十四日)",
+            "id": 69039,
+            "source": 4445,
+            "type": "免职(二0一四年二月十四日)",
+            "properties": {
+                "date": "二0一四年二月十四日",
+                "relation_type": "Dismissed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2007年5月10日)",
+            "id": 71885,
+            "source": 4445,
+            "type": "任职(2007年5月10日)",
+            "properties": {
+                "date": "2007年5月10日",
+                "relation_type": "Appointed"
+            },
+            "target": 3141
+        },
+        {
+            "name": "任职(2007年5月10日)",
+            "id": 71891,
+            "source": 4445,
+            "type": "任职(2007年5月10日)",
+            "properties": {
+                "date": "2007年5月10日",
+                "relation_type": "Appointed"
+            },
+            "target": 27432
+        },
+        {
+            "name": "任职(2007年5月10日)",
+            "id": 71887,
+            "source": 4445,
+            "type": "任职(2007年5月10日)",
+            "properties": {
+                "date": "2007年5月10日",
+                "relation_type": "Appointed"
+            },
+            "target": 3964
+        },
+        {
+            "name": "任职(2012.30)",
+            "id": 76216,
+            "source": 4445,
+            "type": "任职(2012.30)",
+            "properties": {
+                "date": "2012.30",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(207年9月29日)",
+            "id": 85917,
+            "source": 4445,
+            "type": "任职(207年9月29日)",
+            "properties": {
+                "date": "207年9月29日",
+                "relation_type": "Appointed"
+            },
+            "target": 31860
+        },
+        {
+            "name": "免职(207年9月29日)",
+            "id": 85923,
+            "source": 4445,
+            "type": "免职(207年9月29日)",
+            "properties": {
+                "date": "207年9月29日",
+                "relation_type": "Dismissed"
+            },
+            "target": 8255
+        },
+        {
+            "name": "任职(二00七年二月十日)",
+            "id": 87799,
+            "source": 4445,
+            "type": "任职(二00七年二月十日)",
+            "properties": {
+                "date": "二00七年二月十日",
+                "relation_type": "Appointed"
+            },
+            "target": 4742
+        },
+        {
+            "name": "任职(二0一0年二月五日)",
+            "id": 97400,
+            "source": 4445,
+            "type": "任职(二0一0年二月五日)",
+            "properties": {
+                "date": "二0一0年二月五日",
+                "relation_type": "Appointed"
+            },
+            "target": 8629
+        },
+        {
+            "name": "免职(24:24:49)",
+            "id": 91519,
+            "source": 4445,
+            "type": "免职(24:24:49)",
+            "properties": {
+                "date": "24:24:49",
+                "relation_type": "Dismissed"
+            },
+            "target": 9175
+        },
+        {
+            "name": "任职(2012年11月8日)",
+            "id": 102375,
+            "source": 4445,
+            "type": "任职(2012年11月8日)",
+            "properties": {
+                "date": "2012年11月8日",
+                "relation_type": "Appointed"
+            },
+            "target": 4446
+        },
+        {
+            "name": "任职(2012年11月8日)",
+            "id": 102379,
+            "source": 4445,
+            "type": "任职(2012年11月8日)",
+            "properties": {
+                "date": "2012年11月8日",
+                "relation_type": "Appointed"
+            },
+            "target": 4099
+        },
+        {
+            "name": "免职(2010年2月10日)",
+            "id": 108291,
+            "source": 4445,
+            "type": "免职(2010年2月10日)",
+            "properties": {
+                "date": "2010年2月10日",
+                "relation_type": "Dismissed"
+            },
+            "target": 9175
+        },
+        {
+            "name": "任职(二0一二年一月四日)",
+            "id": 109831,
+            "source": 4445,
+            "type": "任职(二0一二年一月四日)",
+            "properties": {
+                "date": "二0一二年一月四日",
+                "relation_type": "Appointed"
+            },
+            "target": 12776
+        }
+    ],
+    "label": "person"
+}

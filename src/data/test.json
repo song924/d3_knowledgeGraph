@@ -1,0 +1,722 @@
+    [
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15585,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13153,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15585",
+                    "startNodeElementId": "13153",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13153,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "齐天镇人民政府"
+                    },
+                    "elementId": "13153"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15586,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13155,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15586",
+                    "startNodeElementId": "13155",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13155,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "沼气协会领导小组"
+                    },
+                    "elementId": "13155"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15587,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13156,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15587",
+                    "startNodeElementId": "13156",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13156,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "党委"
+                    },
+                    "elementId": "13156"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15588,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13157,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15588",
+                    "startNodeElementId": "13157",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13157,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "经发办"
+                    },
+                    "elementId": "13157"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15589,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13158,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15589",
+                    "startNodeElementId": "13158",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13158,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "退休村"
+                    },
+                    "elementId": "13158"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15590,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13159,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15590",
+                    "startNodeElementId": "13159",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13159,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "社事办"
+                    },
+                    "elementId": "13159"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15591,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13160,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15591",
+                    "startNodeElementId": "13160",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13160,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "沼气协会"
+                    },
+                    "elementId": "13160"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15592,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13161,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15592",
+                    "startNodeElementId": "13161",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13161,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "兴民村"
+                    },
+                    "elementId": "13161"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15593,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13162,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "属于",
+                    "properties": {},
+                    "elementId": "15593",
+                    "startNodeElementId": "13162",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13162,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "圣寿村民兵"
+                    },
+                    "elementId": "13162"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15594,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13163,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15594",
+                    "startNodeElementId": "13163",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13163,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "圣新村民兵"
+                    },
+                    "elementId": "13163"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15595,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13164,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15595",
+                    "startNodeElementId": "13164",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13164,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "双坪村"
+                    },
+                    "elementId": "13164"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        },
+        {
+            "keys": [
+                "r",
+                "n1",
+                "n2"
+            ],
+            "length": 3,
+            "_fields": [
+                {
+                    "identity": {
+                        "low": 15596,
+                        "high": 0
+                    },
+                    "start": {
+                        "low": 13165,
+                        "high": 0
+                    },
+                    "end": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "type": "隶属于",
+                    "properties": {},
+                    "elementId": "15596",
+                    "startNodeElementId": "13165",
+                    "endNodeElementId": "13154"
+                },
+                {
+                    "identity": {
+                        "low": 13165,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "柳村支部"
+                    },
+                    "elementId": "13165"
+                },
+                {
+                    "identity": {
+                        "low": 13154,
+                        "high": 0
+                    },
+                    "labels": [
+                        "ORG"
+                    ],
+                    "properties": {
+                        "organization": "绵竹市齐天镇人民政府"
+                    },
+                    "elementId": "13154"
+                }
+            ],
+            "_fieldLookup": {
+                "r": 0,
+                "n1": 1,
+                "n2": 2
+            }
+        }
+    ]
